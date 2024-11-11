@@ -1,0 +1,21 @@
+============================================================
+DoS DETECTION REPORT
+============================================================
+Total unique source IPs seen : 13
+IPs classified as ATTACKER   : 8
+Anomalous traffic windows     : 7
+
+Detected attack window (approx): t+5.0s to t+11.0s
+
+------------------------------------------------------------
+IP              Peak req/s  Total reqs  Location
+------------------------------------------------------------
+203.0.113.11    57.0        328         Sao Paulo, Brazil
+203.0.113.17    57.0        327         Kyiv, Ukraine
+203.0.113.12    56.0        329         Lagos, Nigeria
+203.0.113.10    56.0        330         Moscow, Russia
+203.0.113.16    56.0        327         Karachi, Pakistan
+203.0.113.15    56.0        327         Jakarta, Indonesia
+203.0.113.13    55.0        327         Hanoi, Vietnam
+203.0.113.14    55.0        327         Bucharest, Romania
+------------------------------------------------------------
